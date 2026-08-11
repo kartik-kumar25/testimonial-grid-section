@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Testimonial grid section solution
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/kartik-kumar25/testimonials-grid-section.git)
-- Live Site URL: [Live Site](https://kartik-kumar25.github.io/testimonials-grid-section/)
+- Solution URL: [GitHub](https://github.com/kartik-kumar25/testimonial-grid-section.git)
+- Live Site URL: [Live Site](https://kartik-kumar25.github.io/testimonial-grid-section/)
 
 ## My process
 
