@@ -1,0 +1,27 @@
+@media (max-width: 800px){
+    body{
+        padding: 10px 60px;
+    }
+    .quotation-symbol{
+        display: none;
+    }
+    .testimonials-grid{
+        display: flex;
+        flex-direction: column;
+        /* width: 400px; */
+        width: 100%;
+    }
+    .container-5{
+        order: 5;
+    }
+}
+@media (max-width: 400px){
+    body{
+        padding: 20px;
+    }
+    .testimonials-grid{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+}
